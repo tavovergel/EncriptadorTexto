@@ -1,0 +1,25 @@
+   
+body{
+    background-color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding: 2rem;  
+}
+
+.resul{
+   position: absolute;
+   width: 400px;
+   height: 944px;
+   left: 1200px;
+   top: 150px;  
+   box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+   border-radius: 32px;
+
+   background-color: #5FBD84;
+}
